@@ -1,12 +1,7 @@
 ## My Favorite Essyas
 
 These are the most important essays I’ve read that have shaped my understanding of the online world. 
-Inspired by this list. 
-
-<div><font style="font-size: 14px;"><span style="font-family: &quot;Helvetica Neue&quot;;">These are the most important essays I’ve read that have shaped my understanding of the online world. </span>  
-</font></div>
-
-<div><font style="font-size: 14px;" face="Helvetica Neue">Inspired by this [list. ](https://www.notion.so/b64d5144c7cc4c7a991119eff4588428?v=4c2dba4120a644768db4a0d42839f491)</font></div>
+Inspired by this [list.](https://www.notion.so/b64d5144c7cc4c7a991119eff4588428?v=4c2dba4120a644768db4a0d42839f491)
 
 <div>
 
@@ -40,7 +35,7 @@ Inspired by this list.
 
 <td style="width: 274px; padding: 8px; border: 1px solid;">
 
-<div>[<font style="font-size: 14px;" face="Helvetica Neue">The Tyranny of Structurelessness</font>](https://www.jofreeman.com/joreen/tyranny.htm)</div>
+[The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)
 
 </td>
 
@@ -62,7 +57,7 @@ Inspired by this list.
 
 <td style="width: 274px; padding: 8px; border: 1px solid;">
 
-<div>[<font style="font-size: 14px;" face="Helvetica Neue">I Hate the News</font>](http://www.aaronsw.com/weblog/hatethenews)</div>
+[I Hate the News](http://www.aaronsw.com/weblog/hatethenews)
 
 </td>
 
@@ -84,7 +79,7 @@ Inspired by this list.
 
 <td style="width: 274px; padding: 8px; border: 1px solid;">
 
-<div>[<font style="font-size: 14px;" face="Helvetica Neue">A Group is Its Own Worst Enemy</font>](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)</div>
+[A Group is Its Own Worst Enemy](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
 
 </td>
 
@@ -106,7 +101,7 @@ Inspired by this list.
 
 <td style="width: 274px; padding: 8px; border: 1px solid;">
 
-<div>[<font style="font-size: 14px;" face="Helvetica Neue">The Web is a Customer Service Medium</font>](https://www.ftrain.com/wwic)</div>
+[The Web is a Customer Service Medium</font>](https://www.ftrain.com/wwic)
 
 </td>
 
@@ -128,7 +123,7 @@ Inspired by this list.
 
 <td style="width: 274px; padding: 8px; border: 1px solid;">
 
-<div><font style="font-size: 14px;" face="Helvetica Neue">["<span style="top: 176.801px; transform: scaleX(1.07177);">I tweet honestly, I tweet</span> <span style="top: 206.801px; transform: scaleX(1.00164);">passionately</span>](http://educ333b.pbworks.com/w/file/fetch/53249911/marwick_boyd_twitter_nms.pdf)"</font></div>
+[I tweet honestly, I tweet passionately](http://educ333b.pbworks.com/w/file/fetch/53249911/marwick_boyd_twitter_nms.pdf)
 
 </td>
 
@@ -152,7 +147,7 @@ Inspired by this list.
 
 <td style="width: 274px; padding: 8px; border: 1px solid;">
 
-<div>[<font style="font-size: 14px;">Reflections on the programming life</font>](http://gandt.blogs.brynmawr.edu/files/2009/03/ullman.pdf)</div>
+[Reflections on the programming life](http://gandt.blogs.brynmawr.edu/files/2009/03/ullman.pdf)
 
 </td>
 
@@ -174,7 +169,7 @@ Inspired by this list.
 
 <td style="width: 274px; padding: 8px; border: 1px solid;">
 
-<div>[The Anaconda and the Chandelier](https://www.chinafile.com/library/nyrb-china-archive/china-anaconda-chandelier)</div>
+[The Anaconda and the Chandelier](https://www.chinafile.com/library/nyrb-china-archive/china-anaconda-chandelier)
 
 </td>
 
@@ -196,7 +191,7 @@ Inspired by this list.
 
 <td style="width: 274px; padding: 8px; border: 1px solid;">
 
-<div>[In Praise of the Flaneur](https://www.theparisreview.org/blog/2013/10/17/in-praise-of-the-flaneur/)</div>
+[In Praise of the Flaneur](https://www.theparisreview.org/blog/2013/10/17/in-praise-of-the-flaneur/)
 
 </td>
 
@@ -218,7 +213,7 @@ Inspired by this list.
 
 <td style="width: 274px; padding: 8px; border: 1px solid;">
 
-<div>[Woods+](https://www.ftrain.com/woods-plus)</div>
+[Woods+](https://www.ftrain.com/woods-plus)
 
 </td>
 
@@ -240,7 +235,7 @@ Inspired by this list.
 
 <td style="width: 274px; padding: 8px; border: 1px solid;">
 
-<div>[The Submarine](http://www.paulgraham.com/submarine.html)</div>
+[The Submarine](http://www.paulgraham.com/submarine.html)
 
 </td>
 
@@ -262,7 +257,7 @@ Inspired by this list.
 
 <td style="width: 274px; padding: 8px; border: 1px solid;">
 
-<div>[How Apple and Amazon Security Flaws Led to my Epic Hacking](https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/)</div>
+[How Apple and Amazon Security Flaws Led to my Epic Hacking](https://www.wired.com/2012/08/apple-amazon-mat-honan-hacking/)
 
 </td>
 
