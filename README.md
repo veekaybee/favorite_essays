@@ -13,19 +13,18 @@ Inspired by this [list.](https://www.notion.so/b64d5144c7cc4c7a991119eff4588428?
 
 <td style="border: 1px solid rgb(140, 214, 165); background-color: rgb(205, 237, 216); width: 274px; padding: 8px;">
 
-<div><font style="font-size: 12px;" face="Helvetica Neue">**Essay Title**</font></div>
+Essay Title
 
 </td>
 
 <td style="border: 1px solid rgb(140, 214, 165); background-color: rgb(205, 237, 216); width: 130px; padding: 8px;">
 
-<div><font style="font-size: 12px;" face="Helvetica Neue">**Author**</font></div>
+Autho
 
 </td>
 
 <td style="border: 1px solid rgb(140, 214, 165); background-color: rgb(205, 237, 216); width: 763px; padding: 8px;">
-
-<div><font style="font-size: 12px;" face="Helvetica Neue">**Summary**</font></div>
+Summary
 
 </td>
 
