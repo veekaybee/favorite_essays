@@ -1,4 +1,4 @@
-## My Favorite Essas
+## My Favorite Essays
 
 These are the most important essays I’ve read that have shaped my understanding of the online world. 
 Inspired by this [list.](https://www.notion.so/b64d5144c7cc4c7a991119eff4588428?v=4c2dba4120a644768db4a0d42839f491)
