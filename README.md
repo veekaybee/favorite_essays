@@ -18,7 +18,10 @@ These are the most important essays I’ve read that have shaped my understandin
 | [You Have Two Jobs](https://jacobian.org/2017/nov/1/you-have-two-jobs/) | Jacob Kaplan-Moss                   | At work, you need to be good at your job and be easy to work with.                                                                                                                                                                                                              |
 | [The Wolf](https://randsinrepose.com/archives/the-wolf/) | Michael Lopp                   | What makes up a 10x developer     |
 | [Talking about Large Lanugage Models](https://arxiv.org/abs/2212.03551) | Murray Shanahan                  | The more adept LLMs become at mimicking human language, the more vulnerable we become to anthropomorphism, to seeing the systems in which they are embedded as more human-like than they really are. |
-| [The Engineering-Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)) | Charity Majors                  | You can switch between both in your career and that's mostly ok.  |
+| [The Engineering-Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)| Charity Majors                  | You can switch between both in your career and that's mostly ok.  |
+| [How to Ask Good Questions]([https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/](https://jvns.ca/blog/good-questions/))| Julia Evans                 | You have to research a problem before you need to seek out help |
+
+
 
 
 
