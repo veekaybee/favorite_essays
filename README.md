@@ -2,6 +2,8 @@
 
 These are the most important essays I’ve read that have shaped my understanding of the online world and software development as a profession.  
 
+### On the internet and people
+
 | Essay Title                                                                                                                 | Author                        | Summary                                                                                                                                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)                                            | Jo Freeman                   | Contrary to what we would like to believe, there is no such thing as a structureless group. Any group of people of whatever nature that comes together for any length of time for any purpose will inevitably structure itself in some fashion. |
@@ -22,7 +24,12 @@ These are the most important essays I’ve read that have shaped my understandin
 | [How to Ask Good Questions](https://jvns.ca/blog/good-questions/)| Julia Evans                 | You have to research a problem before you need to seek out help |
 | [The B-Lane Swimmer](https://holly.witteman.ca/the-b-lane-swimmer/)| Holly Witteman                 | People of different skill levels behave differently to one another. |
 
+### On programming
 
-
-
+| Essay Title                                                                                                                 | Author                        | Summary                                                                                                                                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Parse Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)                                            | Alexis King                  | What the title says |
+| [Statistical Modeling: The Two Cultures](https://www.jstor.org/stable/2676681)                                            | Leo Breiman                  | There are people who create simple models via data and complex models via algorithms |
+| [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)                                            | Dan McKinley                  | What the title says |
+| [Grug Brained Developer](https://grugbrain.dev/)                                            | Grug                | Complex is bad |
 
