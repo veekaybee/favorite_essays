@@ -32,4 +32,4 @@ These are the most important essays I’ve read that have shaped my understandin
 | [Statistical Modeling: The Two Cultures](https://www.jstor.org/stable/2676681)                                            | Leo Breiman                  | There are people who create simple models via data and complex models via algorithms |
 | [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)                                            | Dan McKinley                  | What the title says |
 | [Grug Brained Developer](https://grugbrain.dev/)                                            | Grug                | Complex is bad |
-| [Reflections on Trusting Trust]([https://grugbrain.dev/](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf))                                            | Ken Thompson              | You can't trust code you didn't write yourself |
+| [Reflections on Trusting Trust]((https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)                                            | Ken Thompson              | You can't trust code you didn't write yourself |
